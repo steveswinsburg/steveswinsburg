@@ -1,5 +1,17 @@
 A bunch of cool stuff below:
 
+
+<p align="center">
+  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
+  <img src="https://vercel.app" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://herokuapp.com" alt="GitHub Streak" />
+</p>
+
+
+
 <!--
 ### Hi there 👋
 
