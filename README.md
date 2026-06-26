@@ -1,16 +1,9 @@
-A bunch of cool stuff below:
+My life on github:
 
-
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" />
-</p>
-
-
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
+![Streak](./profile/streak.svg)
 
 <!--
 ### Hi there 👋
