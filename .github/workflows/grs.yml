@@ -38,6 +38,13 @@ jobs:
           options: username=stats-organization&repo=github-readme-stats
           path: profile/pin-stats-organization-github-readme-stats.svg
           token: ${{ secrets.MY_GITHUB_STATS_TOKEN }}
+      
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=${{ github.repository_owner }}&theme=default&disable_animations=true
+          path: profile/streak.svg
+          token: ${{ secrets.MY_GITHUB_STATS_TOKEN }}
 
       - name: Commit cards
         run: |
