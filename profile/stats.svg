@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Steve Swinsburg&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 315, Total Commits  (last year) : 4503, Total PRs: 1785, Total Issues: 697, Contributed to (last year): 139</desc>
+        <desc id="descId">Total Stars Earned: 315, Total Commits  (last year) : 4544, Total PRs: 1799, Total Issues: 697, Contributed to (last year): 138</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 15.503978988577456;
+        stroke-dashoffset: 15.503961960718177;
       }
     }
   
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >139</text>
+      >138</text>
     </g>
   </g>
     </svg>
